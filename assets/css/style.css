@@ -437,6 +437,6 @@ nav {
     height: 140px;
   }
   .single-product {
-    width: 330px; 
+    max-width: 330px; 
   }
 }
